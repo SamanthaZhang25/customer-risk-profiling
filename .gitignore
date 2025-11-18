@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+venv/
+data/customers/*
+data/sanctions/*
+data/news/*
+!data/customers/.gitkeep
+!data/sanctions/.gitkeep
+!data/news/.gitkeep
+models/*.pkl
+.env
+.vscode/
+.idea/
+.DS_Store
+*.log
+logs/
